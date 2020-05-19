@@ -1,0 +1,36 @@
+
+body {
+	background: linear-gradient(#073545,#2398cd);
+}
+h1{
+	font-size: 30px !important;
+	font-weight: bold !important;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif !important; 
+}
+.cardS{
+	padding: 10px;
+	background-color: #fff;
+	border-radius: 5px;
+	height: 100%;
+}
+.nav-bar1	{
+	padding: 10px;
+	background-color: #fff;
+	height: 100%;
+	width: 100%;
+}
+.inner-card1{
+	margin: 10px 10px 30px 10px;
+	padding: 10px;
+	height: 100%;
+	background-color: #f3f8fb;
+	box-shadow: 4px 4px 4px #949494;
+	border-radius: 5px
+}
+.titleBidawib{
+	font-weight: bold;
+	font-size: 80px;
+	color: #fff;
+	letter-spacing: 100px;
+	text-shadow: 4px 4px #ac00af;
+}
